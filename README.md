@@ -1,4 +1,4 @@
-<p align="center">I'm everywhere 👋</p>
+<p align="center">I'm everywhere...</p>
 
 <p align="center">
   <a target="_blank" href="https://facebook.com/isaacdarcilla"><img src="https://simpleicons.org/icons/facebook.svg" width="20" style="color: #1877F2"></a>&nbsp
