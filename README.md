@@ -9,5 +9,5 @@
   <a target="_blank" href="https://medium.com/@isaacdarcilla"><img src="https://simpleicons.org/icons/medium.svg" width="20" style="color: #12100E"></a>&nbsp
   <a target="_blank" href="https://twitter.com/isaacdarcilla"><img src="https://simpleicons.org/icons/twitter.svg" width="20" style="color: #12100E"></a>&nbsp
   <a target="_blank" href="https://dev.to/isaacdarcilla"><img src="http://simpleicons.org/icons/dev-dot-to.svg" width="20" style="color: #12100E"></a>&nbsp
-  <a target="_blank" href="live:.cid.e336bbb5b90357e4"><img src="https://simpleicons.org/icons/skype.svg" width="20" style="color: #12100E"></a>&nbsp
+  <a target="_blank" href="tel:live:.cid.e336bbb5b90357e4"><img src="https://simpleicons.org/icons/skype.svg" width="20" style="color: #12100E"></a>&nbsp
 </p>
