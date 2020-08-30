@@ -12,6 +12,3 @@
   <a target="_blank" href="tel:live:.cid.e336bbb5b90357e4"><img src="https://simpleicons.org/icons/skype.svg" width="20" style="color: #12100E"></a>&nbsp
 </p>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/isaacdarcilla" target="_blank"><img width="120" src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-</p>
