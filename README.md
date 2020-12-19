@@ -10,3 +10,4 @@
   <a target="_blank" href="https://twitter.com/isaacdarcilla"><img src="https://github.com/isaacdarcilla/isaacdarcilla/blob/master/icons8-twitter-48.png" width="25" style="color: #12100E"></a>&nbsp
   <a target="_blank" href="tel:live:.cid.e336bbb5b90357e4"><img src="https://github.com/isaacdarcilla/isaacdarcilla/blob/master/icons8-skype-48.png" width="25" style="color: #12100E"></a>&nbsp 
 </p>
+
