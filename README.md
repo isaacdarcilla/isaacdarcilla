@@ -12,6 +12,7 @@
 ![Reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![Vuejs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
+![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
 ![Postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
 ![Mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
