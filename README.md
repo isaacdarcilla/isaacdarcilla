@@ -1,4 +1,4 @@
-<p align="center">👋 Hi, I'm Isaac... a Fullstack Software Developer</p>
+<p align="center">👋 Hi, I'm Isaac...</p>
 
 <p align="center">
   <a href="https://isaacdarcilla.github.io/">
