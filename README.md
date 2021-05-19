@@ -1,6 +1,6 @@
-<p align="center">👋 Hi, I'm Isaac! I use this tools...</p>
+<p align="center">👋 Hi, I'm Isaac!</p>
 
-![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
+<!-- ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)
@@ -19,5 +19,5 @@
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
 ![GC](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg)
-![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
+![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) -->
 
