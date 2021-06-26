@@ -1,4 +1,4 @@
-<p align="center">👋 Hi, I'm Isaac!</p>
+<!-- <p align="center">👋 Hi, I'm Isaac!</p> -->
 
 <!-- ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
@@ -21,3 +21,4 @@
 ![GC](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) -->
 
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
