@@ -20,5 +20,3 @@
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
 ![GC](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) -->
-
-<!-- ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif) -->
