@@ -22,7 +22,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [Visual Studio Code](https://code.visualstudio.com/) - Has extentions for everything
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - a PHP IDE that actually 'gets' your code
 
-&nbsp;&nbsp;&nbsp;;**Terminal**
+&nbsp;&nbsp;&nbsp;**Terminal**
 
 - [Windows Terminal](https://aka.ms/terminal) - A great terminal that’s not a browser
 - Powershell / Bash
@@ -37,6 +37,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 - [Laravel](https://laravel.com/) - The PHP Framework for Web Artisans
 - [Livewire](https://livewire.laravel.com/) - Godsent
+- [Docker](https://www.docker.com/products/docker-desktop/) - One-click-install application
 - [Next.js](https://nextjs.org/) - The go-to web framework
 - [Tailwind CSS](https://tailwindcss.com/) - Atomic CSS done right
 - [Brave](https://brave.com/) - The web browser
