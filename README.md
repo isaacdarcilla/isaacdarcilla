@@ -26,10 +26,10 @@ I am working as a Software Engineer based in the Philippines passionately design
 &nbsp;&nbsp;&nbsp;**Terminal**
 
 - [Windows Terminal](https://aka.ms/terminal) - A great terminal that’s not a browser
-- Powershell / Bash
+- [Powershell](https://learn.microsoft.com/en-us/powershell/) / [Bash](https://www.gnu.org/software/bash/)
 
 &nbsp;&nbsp;&nbsp;**Productivity**
-- Spotify - For my music and podcasts
+- [Spotify](https://open.spotify.com/) - For my music and podcasts
 
 &nbsp;&nbsp;&nbsp;**Desktop**
 - [Windows](https://microsoft.com/windows) + [WSL](https://docs.microsoft.com/windows/wsl) - Best of both worlds
