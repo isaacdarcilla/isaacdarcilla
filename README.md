@@ -17,7 +17,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 ### 🔭 What tech I'm using
 
-&nbsp;&nbsp;&nbsp;**Code Editor and IDE**
+&nbsp;&nbsp;&nbsp;**Code Editor**
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Has extentions for everything
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - a PHP IDE that actually 'gets' your code
