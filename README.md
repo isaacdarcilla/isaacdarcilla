@@ -13,7 +13,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 - [isaacdarcilla/filipino-script-translator](https://github.com/isaacdarcilla/filipino-script-translator) - Translate given text into Baybayin, Buhid, Hanunoo, or Tagbanwa scripts.
 - [isaacdarcilla/select-philippines-address](https://github.com/isaacdarcilla/select-philippines-address) - Filter addresses in the Philippines base on selected location.
-- [isaacdarcilla/contesco](https://github.com/isaacdarcilla/contesco.io) - Streamline your contests, the hassle-free solution for modern organizers. 
+- [isaacdarcilla/ohtranslate](https://github.com/isaacdarcilla/ohtranslate) - A demo of Tagalog to Baybayin, Buhid, Hanunoo, Tagbanwa translation.
 
 <!---
 ### 🔭 What tech I'm using
