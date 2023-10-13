@@ -15,7 +15,6 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [isaacdarcilla/select-philippines-address](https://github.com/isaacdarcilla/select-philippines-address) - Filter addresses in the Philippines base on selected location.
 - [isaacdarcilla/ohtranslate](https://github.com/isaacdarcilla/ohtranslate) - A demo of Tagalog to Baybayin, Buhid, Hanunoo, Tagbanwa translation.
 
-<!---
 ### 🔭 What tech I'm using
 
 &nbsp;&nbsp;&nbsp;**Code Editor**
@@ -60,4 +59,3 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [**@Iceburg CRM**](https://github.com/iceburgcrm)
 - [**@Stephen Rey Agustinez**](https://github.com/stpn120400)
 - [**@Amr Mostofa**](https://github.com/amrsalim)
---->
