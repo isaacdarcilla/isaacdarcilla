@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=isaacdarcilla&style=flat-square)
-<!---
+
 ### Isaac Arcilla
 
 > /ai · zuhk/
-
+<!---
 I am working as a Software Engineer based in the Philippines passionately designing and building software applications from concept to launch, for 5 years… and going.
 --->
 [`📫 isaacdarcilla@gmail.com`](mailto:isaacdarcilla@gmail.com)
@@ -54,8 +54,8 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 ### 💖 Recent followers
 
+- [**@Zuckness**](https://github.com/Zuckness)
 - [**@eusme**](https://github.com/eusme)
 - [**@dinosoid**](https://github.com/dinosoid)
 - [**@Iceburg CRM**](https://github.com/iceburgcrm)
 - [**@Stephen Rey Agustinez**](https://github.com/stpn120400)
-- [**@Amr Mostofa**](https://github.com/amrsalim)
