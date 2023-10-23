@@ -25,7 +25,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 &nbsp;&nbsp;&nbsp;**Terminal**
 
 - [Windows Terminal](https://aka.ms/terminal) - A great terminal that’s not a browser
-- [Powershell](https://learn.microsoft.com/en-us/powershell/) / [Bash](https://www.gnu.org/software/bash/) - Scripting?
+- [Powershell](https://learn.microsoft.com/en-us/powershell/) / [Bash](https://www.gnu.org/software/bash/) - Love the auto...
 
 &nbsp;&nbsp;&nbsp;**Productivity**
 - [Spotify](https://open.spotify.com/) - For my music and podcasts
