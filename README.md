@@ -32,6 +32,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 &nbsp;&nbsp;&nbsp;**Desktop**
 - [Windows](https://microsoft.com/windows) + [WSL](https://docs.microsoft.com/windows/wsl) - Best of both worlds
+- [Ubuntu](https://ubuntu.com/) - Easy to use Linux 
 
 &nbsp;&nbsp;&nbsp;**Dev**
 
