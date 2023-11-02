@@ -56,8 +56,8 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 ### 💖 Recent followers
 
+- [**@Jack Webb-Heller**](https://github.com/JackWH)
 - [**@Zuckness**](https://github.com/Zuckness)
 - [**@eusme**](https://github.com/eusme)
 - [**@dinosoid**](https://github.com/dinosoid)
 - [**@Iceburg CRM**](https://github.com/iceburgcrm)
-- [**@Stephen Rey Agustinez**](https://github.com/stpn120400)
