@@ -43,6 +43,10 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [Alpine.js](https://github.com/alpinejs/alpine) - Does the job
 - [Tailwind CSS](https://tailwindcss.com/) - Atomic CSS done right
 - [Brave](https://brave.com/) - The web browser
+
+&nbsp;&nbsp;&nbsp;**Tools**
+
+- [Transform](https://transform.tools/json-to-typescript) - Great tool for code conversion
 - [Tailwind Gradient Designer](https://gradient-designer.csspost.com/) - Design gradients using Tailwind CSS colors
 - [Rico’s cheatsheets](https://devhints.io/) - A ridiculous collection of cheatsheets
 
