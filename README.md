@@ -6,7 +6,7 @@
 
 I am working as a Software Engineer based in the Philippines passionately designing and building software applications from concept to launch, for 5 years… and going.
 --->
-<!---
+
 [`📫 isaacdarcilla@gmail.com`](mailto:isaacdarcilla@gmail.com)
 [`💼 in/isaacdarcilla`](https://www.linkedin.com/in/isaacdarcilla)
 
@@ -66,4 +66,3 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [**@eusme**](https://github.com/eusme)
 - [**@dinosoid**](https://github.com/dinosoid)
 - [**@Iceburg CRM**](https://github.com/iceburgcrm)
---->
