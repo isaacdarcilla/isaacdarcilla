@@ -41,6 +41,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [Livewire](https://livewire.laravel.com/) - Godsent
 - [Docker](https://www.docker.com/products/docker-desktop/) - One-click-install application
 - [Next.js](https://nextjs.org/) - The go-to web framework
+- [Remix.js](https://remix.run/) - Better DX
 - [Alpine.js](https://github.com/alpinejs/alpine) - Does the job
 - [Tailwind CSS](https://tailwindcss.com/) - Atomic CSS done right
 - [Brave](https://brave.com/) - The web browser
