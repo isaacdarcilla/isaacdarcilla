@@ -54,6 +54,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 ### ⭐ Recent Stars
 
+- [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - High power tools for HTML.
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework.
