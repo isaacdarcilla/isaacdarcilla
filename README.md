@@ -7,6 +7,7 @@
 I am working as a Software Engineer based in the Philippines passionately designing and building software applications from concept to launch, for 5 years… and going.
 --->
 
+<!---
 [`📫 isaacdarcilla@gmail.com`](mailto:isaacdarcilla@gmail.com)
 [`💼 in/isaacdarcilla`](https://www.linkedin.com/in/isaacdarcilla)
 
@@ -68,3 +69,20 @@ I am working as a Software Engineer based in the Philippines passionately design
 - [**@eusme**](https://github.com/eusme)
 - [**@dinosoid**](https://github.com/dinosoid)
 - [**@Iceburg CRM**](https://github.com/iceburgcrm)
+--->
+
+### Hello there, I'm Isaac 🥸
+
+I’m a digital nomad 🚀
+
+#### 🧰 My current tools 
+-  🌎 Web with React and Next.js
+-  📱 Mobile with React Native
+-  📡 API with Node.js and Laravel
+-  🛠️ Typescript, PHP
+-  📖 Interested in learning more about Remix and Rust
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacdarcilla/)](https://www.linkedin.com/in/isaacdarcilla/) 
+[![Gmail Badge](https://img.shields.io/badge/-isaacdarcilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacdarcilla@gmail.com)](mailto:isaacdarcilla@gmail.com)
