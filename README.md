@@ -80,7 +80,7 @@ I’m a digital nomad 🚀
 -  📱 Mobile with React Native
 -  📡 API with Node.js and Laravel
 -  🛠️ Typescript, PHP
--  📖 Interested in learning more about Remix and Rust
+-  📖 Interested in learning more about Remix and Go
 
 #### 💬 Find me elsewhere
 
