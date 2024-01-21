@@ -73,7 +73,7 @@ I am working as a Software Engineer based in the Philippines passionately design
 
 ### Hello there, I'm Isaac 🥸
 
-I’m a digital nomad 🚀
+I’m a software engineer from PH 🚀
 
 #### 🧰 My current tools 
 -  🌎 Web with React and Next.js
