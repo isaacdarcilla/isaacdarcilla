@@ -80,7 +80,7 @@ I’m a software engineer from PH 🚀
 -  📱 Mobile with React Native
 -  📡 API with Node.js and Laravel
 -  🛠️ Typescript, PHP
--  📖 Interested in learning more about Remix and Go
+-  📖 Learning more about Remix, Hugo and Go
 
 #### 💬 Find me elsewhere
 
