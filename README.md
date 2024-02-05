@@ -79,8 +79,8 @@ I’m a software engineer from PH 🚀
 -  🌎 Web with React and Next.js
 -  📱 Mobile with React Native
 -  📡 API with Node.js and Laravel
--  🛠️ Typescript, PHP
--  📖 Learning more about Remix, Hugo and Go
+-  🛠️ Typescript, PHP, Python
+-  📖 Learning more about Remix and Go
 
 #### 💬 Find me elsewhere
 
