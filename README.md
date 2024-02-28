@@ -85,4 +85,6 @@ I’m a software engineer from PH 🚀
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacdarcilla/)](https://www.linkedin.com/in/isaacdarcilla/) 
-[![Gmail Badge](https://img.shields.io/badge/-isaacdarcilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacdarcilla@gmail.com)](mailto:isaacdarcilla@gmail.com)
+
+<!---
+[![Gmail Badge](https://img.shields.io/badge/-isaacdarcilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacdarcilla@gmail.com)](mailto:isaacdarcilla@gmail.com)--->
