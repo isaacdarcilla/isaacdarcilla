@@ -8,7 +8,7 @@ I’m a software engineer from 🇵🇭
 -  🌎 Web with React, Vue.js and Next.js
 -  📱 Mobile with React Native
 -  📡 API with Node.js, Laravel and Symfony
--  🛠️ Typescript, PHP, Python
+-  🛠️ TypeScript, PHP and Python
 -  🌈 UI with Tailwind, CSS and SCSS
 -  📖 Learning more about Remix and Go
 
