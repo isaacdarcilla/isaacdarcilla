@@ -5,7 +5,7 @@
 I’m a software engineer from 🇵🇭
 
 #### 🧰 My current tools 
--  🌎 Web with React, Vue.js and Next.js
+-  🌎 Web with React, Svelte and Next.js
 -  📱 Mobile with React Native
 -  📡 API with Node.js, Laravel and Symfony
 -  🛠️ TypeScript, PHP and Python
