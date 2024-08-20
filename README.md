@@ -14,4 +14,4 @@ I’m a software engineer from 🇵🇭
 
 #### 💬 Find me elsewhere
 
-![](https://komarev.com/ghpvc/?username=isaacdarcilla&style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/isaacdarcilla)
+![](https://komarev.com/ghpvc/?username=isaacdarcilla&style=flat&color=brightgreen&label=Visits) ![GitHub followers](https://img.shields.io/github/followers/isaacdarcilla)
