@@ -8,9 +8,9 @@ I’m a software engineer from 🇵🇭
 -  🌎 Web with React, Svelte and Next.js
 -  📱 Mobile with React Native
 -  📡 API with Node.js, Laravel and Symfony
--  🛠️ TypeScript, PHP and Python
+-  🛠️ TypeScript, PHP, Go, Python
 -  🌈 UI with Tailwind, CSS and SCSS
--  📖 Learning more about Remix, Astro and Go
+-  📖 Learning more about Remix and Astro
 
 #### 💬 Find me elsewhere
 
