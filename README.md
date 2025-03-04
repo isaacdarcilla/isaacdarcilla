@@ -10,7 +10,7 @@ I’m a software engineer from 🇵🇭
 -  📡 API with Node.js, Laravel and Symfony
 -  🛠️ TypeScript, PHP, Go, Python
 -  🌈 UI with Tailwind, CSS and SCSS
--  📖 Learning more about Remix and Astro
+-  📖 Learning more about Remix, Astro and Vue
 
 #### 💬 Find me elsewhere
 
